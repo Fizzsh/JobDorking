@@ -1,0 +1,14 @@
+# Make sure to add the correct domain, eg; spotify.com, NOT https://spotify.com/ for the best results
+
+
+# Examples: Feel free to add more domains and/or remove some! :)
+google.com
+microsoft.com
+spotify.com
+cloudflare.com
+discord.com
+canva.com
+adobe.com
+github.com
+gitlab.com
+
