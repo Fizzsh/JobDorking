@@ -2,6 +2,7 @@
 JobDorking is a simple Python OSINT script that helps you discover company career pages by generating targeted Google search queries using 'site:' and 'inurl:' operators.
 
 It avoids job board noise, and helps you apply to the job you want and deserve in the quickest way(s) possible- making it ideal for repeatable job reconnaissance across any industry of your choosing!
+
 -------------------------------------------------------
 <img width="1306" height="411" alt="JobDorking Banner Transparent" src="https://github.com/user-attachments/assets/527e4e7a-5630-448f-bef3-437032b486bb" />
 
