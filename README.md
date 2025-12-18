@@ -9,7 +9,10 @@ It avoids job board noise, and helps you apply to the job you want and deserve i
 How-to-use:
 -------------------------------------------------------
 Make sure `python3` is installed on your system.
+
 Open `companies.txt` and add or remove company domains to match where you want to apply.
+
 Run the tool: `python3 jobdorking.py`
+
 Done! A results file will be created in the project directory. Open the generated Google-Dork search URLs to quickly find each company’s careers page! :)
 
